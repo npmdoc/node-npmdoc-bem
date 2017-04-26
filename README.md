@@ -1,6 +1,6 @@
 # npmdoc-bem
 
-#### api documentation for  [bem (v2.0.0)](https://bem.info/toolbox/bem-tools/)  [![npm package](https://img.shields.io/npm/v/npmdoc-bem.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-bem) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-bem.svg)](https://travis-ci.org/npmdoc/node-npmdoc-bem)
+#### basic api documentation for  [bem (v2.0.0)](https://bem.info/toolbox/bem-tools/)  [![npm package](https://img.shields.io/npm/v/npmdoc-bem.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-bem) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-bem.svg)](https://travis-ci.org/npmdoc/node-npmdoc-bem)
 
 #### BEM Tools
 
